@@ -9,7 +9,7 @@ namespace CalculatorLibJenkinsDemo
     public class Calculator
     {
         public int add(int i, int j) => i + j;
-        public int sub(int i, int j) => j - i;
+        public int sub( int j) => j - i;
         public int mul( int j) =>i * j;
 
     }
